@@ -16,7 +16,7 @@ A small browser-console script that extracts the **M3U8** and **TS** streaming l
 > [!TIP]
 > If your browser blocks pasting into the console, type `allow pasting`, press **Enter**, then paste the script again.
 
-(https://player.vimeo.com/video/1249477608)
+(https://vimeo.com/video/1249477608)
 
 ## What are M3U8 and TS?
 
