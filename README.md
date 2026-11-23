@@ -16,8 +16,6 @@ A small browser-console script that extracts the **M3U8** and **TS** streaming l
 > [!TIP]
 > If your browser blocks pasting into the console, type `allow pasting`, press **Enter**, then paste the script again.
 
-[![Screen Recording](thumbnail.png)](https://player.vimeo.com/video/1249477608)
-
 ## What are M3U8 and TS?
 
 - **M3U8** is a UTF-8 plain-text playlist file used in HTTP Live Streaming (HLS). It tells the media player where to find the video segments and at what quality.
