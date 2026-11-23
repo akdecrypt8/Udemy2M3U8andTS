@@ -16,6 +16,8 @@ A small browser-console script that extracts the **M3U8** and **TS** streaming l
 > [!TIP]
 > If your browser blocks pasting into the console, type `allow pasting`, press **Enter**, then paste the script again.
 
+[![Video.webm](https://github.com/akdecrypt8/Udemy2M3U8andTS/raw/refs/heads/main/src/Video.webm)](https://github.com/akdecrypt8/Udemy2M3U8andTS/raw/refs/heads/main/src/Video.webm)
+
 ## What are M3U8 and TS?
 
 - **M3U8** is a UTF-8 plain-text playlist file used in HTTP Live Streaming (HLS). It tells the media player where to find the video segments and at what quality.
